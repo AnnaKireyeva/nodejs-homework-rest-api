@@ -37,26 +37,42 @@
   },
   {
     "id": "7",
-    "name": "Reuben Henry",
+    "name": "Reuben Henry New",
     "email": "pharetra.ut@dictum.co.uk",
     "phone": "(715) 598-5792"
   },
   {
     "id": "8",
-    "name": "Simon Morton",
+    "name": "Simon Morton New",
     "email": "dui.Fusce.diam@Donec.com",
     "phone": "(233) 738-2360"
-  },
-  {
-    "id": "9",
-    "name": "Thomas Lucas",
-    "email": "nec@Nulla.com",
-    "phone": "(704) 398-7993"
   },
   {
     "contactId": "32bb9f75-33fb-43f1-9dd0-eab8bd69303c",
     "name": "Anna",
     "email": "anna@nonenimMauris.net",
     "phone": "222-222-2222"
+  },
+  {
+    "contactId": "10cdb5b6-9aea-4914-a793-232b3c87a668",
+    "email": "new-contactName11@gmail.net"
+  },
+  {
+    "contactId": "afc6b198-eef6-4e06-a582-56fba0015d73",
+    "name": "Anna",
+    "email": "anna@nonenimMauris.net",
+    "phone": "222-222-2222"
+  },
+  {
+    "id": "4adabd98-eb0a-4c1c-9e24-e90497b438e1",
+    "name": "Ivan Ivanov New",
+    "email": "vanyavanya@gmail.com",
+    "phone": "(666) 666-6666"
+  },
+  {
+    "id": "c980b949-d718-4135-9c1c-7e2b50a53741",
+    "name": "Petr Petrov",
+    "email": "petya@gmail.net",
+    "phone": "(777) 777-7777"
   }
 ]
